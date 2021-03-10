@@ -1,0 +1,1 @@
+alert("Welcom Seler You can Add any product with Discount on this Page");
